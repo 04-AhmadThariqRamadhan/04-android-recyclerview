@@ -9,4 +9,29 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="jenis1">Beat Karbu</string>
+    <string name="merk1">HONDA</string>
+    <string name="cc1"><b>108</b>
+        \n
+        Sejarah Honda Beat dimulai pada 2008. Di awal kemunculannya, Honda membekali motor Matic ini dengan kapasitas mesin 108 cc, SOHC 2-katup dengan sistem karburator.
+Di atas kertas, torsi puncaknya 8,32 Nm pada 5.500 rpm dan tenaga maksimal 8,22 PS pada 8.000 rpm. Sementara soal tangki bahan bakar, kapasitasnya cuma 3,5 liter.
+Salah satu ciri khas dari BeAT yang juga dikeluhkan oleh penggunanya adalah suara starternya yang berisik. Namun di sisi lain, mesin motor ini jadi mudah diotak-atik lantaran pakai karburator. Oleh karena itulah, Honda Beat generasi pertama sampai sekarang masih banyak diminati oleh pembeli di pasar motor bekas.
+    </string>
+    <string name="jenis2">Beat Injeksi</string>
+    <string name="merk2">HONDA</string>
+    <string name="cc2"><b>108</b>
+    \n1/2
+         Honda Beat generasi kedua atau Beat PGM-FI lahir pada 2012. Berbeda dengan dua pendahulunya, kali ini Honda menggunakan injeksi PGM-FI untuk sistem pengkabutan bahan bakar. Alhasil, mesin diklaim lebih irit 30% dibandingkan Beat generasi pertama Catatannya adalah 58 Kpl.
+Bagaimana dengan desainnya? BeAT injeksi pertama terlihat lebih gemuk. Hal ini dikarenakan ukuran bagasi yang didesain lima kali lebih luas dari sebelumnya, agar bisa menampung banyak barang dengan kapasitas 11,2 liter.
+Model ini juga memiliki pijakan kaki yang lebih luas, jok yang lebih lebar dan panjang. Tujuannya tidak lain meningkatkan kenyamanan berkendara. Hanya saja dimensi keseluruhan tetap dijaga ringkas, supaya asik diajak selap-selip di kepadatan jalan.
+</string>
+    <string name="jenis3">BeAT POP</string>
+    <string name="merk3">HONDA</string>
+    <string name="cc3"><b>108</b>
+\n3
+        Pada 2014, hadir pula model Beat POP eSP bersamaan dengan Beat eSP. Tampilan BeAT POP eSP terlihat lebih imut dan bodinya membulat.
+Mengikuti tren terkini, desain stripe BeAT POP eSP terlihat lebih fun dan ekspresif. Warnanya pun terlihat lebih bergaya. Total ada 4 pilihan warna yaitu Harmony Black White, Acoustic Black, Groovy Red White, dan Symphony White Blue. Tampilan BeAT POP eSP secara spesial disuguhkan untuk para remaja yang gemar mengekspresikan diri lewat ragam kegiatan.
+</string>
+    <string name="recipe_image_desc">recipe image</string>
 </resources>
